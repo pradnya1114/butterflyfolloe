@@ -1,0 +1,6 @@
+{
+  "name": "Butterfly Follow Me",
+  "description": "Interactive body & hand tracking game with real-time camera tracking and magical butterflies.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
